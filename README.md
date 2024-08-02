@@ -26,8 +26,25 @@ Materials Needed:
    - Connect the anode (longer leg) of the LED to a digital pin on the Arduino (e.g., pin 13).
    - Connect the cathode (shorter leg) of the LED to one end of the resistor.
    - Connect the other end of the resistor to the GND (ground) pin on the Arduino.
+   - 
 2. Software Setup:
    - Install the Arduino IDE: Download and install the Arduino Integrated Development Environment (IDE) from the official Arduino website.
+   - Write the Code: Open the Arduino IDE and write the code to control the LED.
+
+   cpp
+   const int ledPin = 13;
+
+   void setup() {
+     pinMode(ledPin, OUTPUT);
+   }
+
+   void loop() {
+     digitalWrite(ledPin, HIGH);
+     delay(1000);
+     digitalWrite(ledPin, LOW);
+     delay(1000);
+   }
+   
     
 3. Upload the Code:
    - Connect the Arduino board to the computer using the USB cable.
