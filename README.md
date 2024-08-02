@@ -1,7 +1,11 @@
 Name: NITHISH S
+
 Company: CODETECH IT SOLUTIONS
+
 ID:CT08DS6336
+
 Domain: Embedded Systems
+
 Duration: August to September 2024
 
 Overview of the LED Blinking with Arduino Project
