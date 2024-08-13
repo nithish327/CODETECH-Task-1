@@ -16,7 +16,7 @@ Objective:
      The primary goal of this project is to introduce basic embedded programming concepts and interfacing with hardware by using an Arduino board to blink an LED at a specific interval. This foundational project helps users understand how to control electronic components through code.
 
 Materials Needed:
-- Arduino board (e.g., Arduino Uno)
+- Arduino board (Arduino Uno)
 - LED
 - Resistor (220 ohms)
 - Breadboard and jumper wires
