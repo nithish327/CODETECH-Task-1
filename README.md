@@ -72,3 +72,5 @@ Further Exploration:
 - Connect and control multiple LEDs using different digital pins.
 - Integrate sensors or buttons to create more complex interactions.
 
+  ![image alt](https://github.com/nithish327/CODETECH-Task-1/blob/391e0e17f0963714486e7fde3768be92d2ab4823/Task%201%20Output)
+
